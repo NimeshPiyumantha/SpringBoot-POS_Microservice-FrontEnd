@@ -17,6 +17,7 @@ This is a Spring Boot Web POS System with Microservice Architecture.
 * Boostrap Framework
 * AJAX
 
+### - Using Microservice Architecture
 
 ## Links
 * 🔗 <a href="https://www.gloomaps.com/bsC9rMgdrG" target="_blank">POS System Site Map</a>
