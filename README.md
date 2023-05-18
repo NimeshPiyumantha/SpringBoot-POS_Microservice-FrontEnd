@@ -3,7 +3,7 @@
 This is a Spring Boot Web POS System with Microservice Architecture.
 ###
 
-
+[![wakatime](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/55955c18-9dde-42ab-8d52-e46f6874e462.svg)](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/55955c18-9dde-42ab-8d52-e46f6874e462)
 ### - Back End
 * Spring Boot
 * Maven
