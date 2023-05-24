@@ -1,23 +1,15 @@
 # SpringBoot-POS_Microservice
 
-This is a Spring Boot Web POS System with Microservice Architecture.
+This is a Spring Boot Web POS System with Microservice Architecture.(Front End)
 ###
 
 [![wakatime](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/55955c18-9dde-42ab-8d52-e46f6874e462.svg)](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/55955c18-9dde-42ab-8d52-e46f6874e462)
-### - Back End
-* Spring Boot
-* Maven
-* Hibernate
-* Lombok
 
-### - Front End
 * HTML
 * Javascript
 * CSS
 * Boostrap Framework
 * AJAX
-
-### - Using Microservice Architecture
 
 ## Links
 * 🔗 <a href="https://www.gloomaps.com/bsC9rMgdrG" target="_blank">POS System Site Map</a>
@@ -71,11 +63,11 @@ https://github.com/NimeshPiyumantha/SpringBoot-POS_Microservice.git
 ##
 <div align="center">
 
-![repo license](https://img.shields.io/github/license/NimeshPiyumantha/SpringBoot-POS_Microservice?&labelColor=black&color=3867d6&style=for-the-badge)
-![repo size](https://img.shields.io/github/repo-size/NimeshPiyumantha/SpringBoot-POS_Microservice?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/NimeshPiyumantha/SpringBoot-POS_Microservice?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/NimeshPiyumantha/SpringBoot-POS_Microservice?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/NimeshPiyumantha/SpringBoot-POS_Microservice?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+![repo license](https://img.shields.io/github/license/NimeshPiyumantha/SpringBoot-POS_Microservice-FrontEnd?&labelColor=black&color=3867d6&style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/NimeshPiyumantha/SpringBoot-POS_Microservice-FrontEnd?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/NimeshPiyumantha/SpringBoot-POS_Microservice-FrontEnd?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/NimeshPiyumantha/SpringBoot-POS_Microservice-FrontEnd?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/NimeshPiyumantha/SpringBoot-POS_Microservice-FrontEnd?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 </div>
 
 <div align="center">
