@@ -39,7 +39,7 @@ This is a Spring Boot Web POS System with Microservice Architecture.(Front End)
 ###  
 ### Clone this repository ✅
 ```md
-https://github.com/NimeshPiyumantha/SpringBoot-POS_Microservice.git
+https://github.com/NimeshPiyumantha/SpringBoot-POS_Microservice-FrontEnd.git
 ```
 ##  Connect with me
 #### If you have any bugs or issues , If you want to explain my code please contact me on :
